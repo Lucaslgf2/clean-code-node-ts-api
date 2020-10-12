@@ -54,7 +54,7 @@ describe('SignUp Controller', () => {
       body: {
         name: 'any_name',
         email: 'any_email@mail.com',
-        passwordConfirmation: 'any_password'
+        password: 'any_password'
       }
     }
     const httpResponse = sut.handle(httpRequest)
