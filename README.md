@@ -4,6 +4,7 @@ Curso Udemy de NodeJS, Typescript, TDD, Clean Architecture e SOLID.
 https://www.udemy.com/course/tdd-com-mango/?couponCode=02DD91BF68C545EDB057
 https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA
 https://rmanguinho.github.io
+
 # =============================================================================
 npm init -y
 # =============================================================================
@@ -23,3 +24,5 @@ npm i -D lint-staged: https://www.npmjs.com/package/lint-staged
 npm i -D jest @types/jest ts-jest
 jest --init
 # =============================================================================
+
+Design Patterns – Adapter
