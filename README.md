@@ -26,3 +26,9 @@ jest --init
 # ==========================================================================
 
 Design Patterns – Adapter
+Design Patterns – Factory
+
+# ==========================================================================
+SOLID
+S - (SRP) Principio da Responsabilidade Única	==> Uma classe deve ter um, e somente um, motivo para mudar.
+O -
