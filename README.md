@@ -20,3 +20,6 @@ npm install i -D eslint@7 eslint-plugin-standard@4 eslint-plugin-promise@4 eslin
 npm i -D husky: https://www.npmjs.com/package/husky
 npm i -D lint-staged: https://www.npmjs.com/package/lint-staged
 # =============================================================================
+npm i -D jest @types/jest ts-jest
+jest --init
+# =============================================================================
